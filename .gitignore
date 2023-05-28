@@ -1,0 +1,24 @@
+# _site
+# .sass-cache
+# .jekyll-cache
+# .jekyll-metadata
+# vendor
+
+
+# Archivos y carpetas generados por Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Carpeta donde se instalan las dependencias de Ruby
+vendor/
+
+# Archivos y carpetas generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas específicos de tu entorno de desarrollo local
+.env
+config.yml
+Gemfile.lock
